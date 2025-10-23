@@ -3,6 +3,12 @@
 
 ## Command
 
+- 環境変数`RUSTUP_TOOLCHAIN`のunset
+
+```zsh
+unset RUSTUP_TOOLCHAIN
+```
+
 - ビルド
 
 ```zsh
